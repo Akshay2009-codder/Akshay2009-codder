@@ -35,7 +35,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎬 movie-recommendation-system](https://github.com/Akshay2009-codder/movie-recomanded-system) | Content-based movie recommender using user preferences | Python, Pandas, Scikit-learn |
-| [🔐 ThreatWatch](https://github.com/Akshay2009-codder/Threatwatch) | AI-based insider threat detection using Isolation Forest ML | JavaScript |
+| [🔐 ThreatWatch](https://github.com/Akshay2009-codder/Threatwatch) | AI-based insider threat detection using Isolation Forest ML | JavaScript,Python |
 | [📊 netflix-data-visualization](https://github.com/Akshay2009-codder/netflix-data-visualization) | Trend analysis & genre distribution on Netflix dataset | Python, Matplotlib, Seaborn |
 
 ---
