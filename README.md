@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Akshay Dhumda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Student+%40+GP+Palanpur;Python+%26+ML+Enthusiast;Data+Science+%7C+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Student+%40+GP+Palanpur;Python+%26+ML+Enthusiast;Data+Science+%7C" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Cyber Security & Digital Forensics** at Government Polytechnic Palanpur
+- 🎓 Studying  at Government Polytechnic Palanpur
 - 🐍 Passionate about **Python**, **Machine Learning**, and **Data Science**
 - 🔒 Interested in **Cybersecurity**, **Threat Detection**, and **Digital Forensics**
 - 📍 Based in Tharad, Gujarat, India
@@ -24,7 +24,6 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
