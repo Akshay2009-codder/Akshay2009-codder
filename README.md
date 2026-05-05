@@ -10,7 +10,6 @@
 
 - 🎓 Studying  at Government Polytechnic Palanpur
 - 🐍 Passionate about **Python**, **Machine Learning**, and **Data Science**
-- 🔒 Interested in **Digital Forensics**
 - 📍 Based in Tharad, Gujarat, India
 - 📫 Reach me at **akshaydhumda@gmail.com**
 
