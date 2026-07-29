@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshay Dhumda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Student+%40+GP+Palanpur;Python+%26+ML+Enthusiast;Data+Science+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Student+%40+GP+Palanpur;Python+%26+ML+Enthusiast;+%7C" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,13 +29,7 @@
 
 ---
 
-### 🚀 Pinned Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎬 movie-recommendation-system](https://github.com/Akshay2009-codder/movie-recomanded-system) | Content-based movie recommender using user preferences | Python, Pandas, Scikit-learn |
-| [🔐 ThreatWatch](https://github.com/Akshay2009-codder/Threatwatch) | AI-based insider threat detection using Isolation Forest ML | JavaScript,Python |
-| [📊 netflix-data-visualization](https://github.com/Akshay2009-codder/netflix-data-visualization) | Trend analysis & genre distribution on Netflix dataset | Python, Matplotlib, Seaborn |
 
 ---
 
